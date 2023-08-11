@@ -1,2 +1,1 @@
-# Multiple-Lineal-Regression-wh-Dummies
-Excercise from Data Science Training
+# 6. Lidiando con los datos categóricos - Variables ficticias
